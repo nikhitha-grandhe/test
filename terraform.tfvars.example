@@ -1,0 +1,4 @@
+key_vault_name      = "my-keyvault-name"
+resource_group_name = "rg-my-keyvault"
+location            = "East US"
+key_vault_sku        = "standard"
